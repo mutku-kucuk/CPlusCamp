@@ -1,0 +1,2 @@
+﻿  Lesson23.cpp
+C:\Utku\Developer sec\Cplus\Camp\Lesson23\Lesson23\Lesson23.cpp(9,5): error C3892: 'i': you cannot assign to a variable that is const
